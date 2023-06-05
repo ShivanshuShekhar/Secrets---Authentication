@@ -1,2 +1,2 @@
 # Secrets-Authentication
- Learning about Authentication and Security.
+ Learning about various types of Authentication and Security.
