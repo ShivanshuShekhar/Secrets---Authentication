@@ -1,2 +1,2 @@
 # Secrets-Authentication
- Learning about various types of Authentication and Security by Angela Yu.
+ Learning various types of Authentication and Security by Angela Yu.
